@@ -1,4 +1,4 @@
-# model-for-age-estimation
+# CNN for age estimation
 
 Reference the following publication: <br/>
 Coming soon.
