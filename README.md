@@ -2,7 +2,9 @@
 
 ## Reference
 Reference the following publication: <br/>
-Coming soon.
+Heinrich, A. Accelerating computer vision-based human identification through the integration of deep learning-based age estimation from 2 to 89 years. Sci Rep 14, 4195 (2024). https://doi.org/10.1038/s41598-024-54877-1
+
+Link: https://www.nature.com/articles/s41598-024-54877-1
 
 ## model weight
 Download model weight:<br/>
