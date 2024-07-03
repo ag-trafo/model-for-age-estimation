@@ -1,16 +1,24 @@
 # CNN for age estimation
-
-## Reference
-Reference the following publication: <br/>
-Heinrich, A. Accelerating computer vision-based human identification through the integration of deep learning-based age estimation from 2 to 89 years. Sci Rep 14, 4195 (2024). https://doi.org/10.1038/s41598-024-54877-1
-
-Link: https://www.nature.com/articles/s41598-024-54877-1
-
-## model weight
-Download model weight:<br/>
-https://www.dropbox.com/scl/fi/b3wkkpd54s0f8ojophm0e/2216_weight.h5?rlkey=ajdu14emfm3ekhtij16lrwz9l&dl=0
+<img src="CNN.png" alt="Model" width="400" style="text-align: center;"/>
 
 
+
+## References
+Please reference the following publications:
+<ul>
+   <li>Heinrich, A. Accelerating computer vision-based human identification through the integration of deep learning-based age estimation from 2 to 89 years. Sci Rep 14, 4195 (2024). https://doi.org/10.1038/s41598-024-54877-1<br/><br/>Link: https://www.nature.com/articles/s41598-024-54877-1<br/><br/></li>
+   <li>follows after acceptance of the publication</li>
+</ul>
+
+<br/><br/>
+## Download model weight
+### very robust model 2 to 89 years
+<ul><li>https://www.dropbox.com/scl/fi/b3wkkpd54s0f8ojophm0e/2216_weight.h5?rlkey=ajdu14emfm3ekhtij16lrwz9l&dl=0</li></ul>
+
+### robust model 1 to <25 years
+<ul><li>Link coming soon</li></ul>
+
+<br/><br/>
 ## Instructions
 * Code to apply the model
    
