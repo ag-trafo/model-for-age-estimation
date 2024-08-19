@@ -40,10 +40,21 @@ def estimate_age(model, input_image):
     return model.predict(input_image)[0, 0]
 
 if __name__ == "__main__":
-    model = get_my_model()
-    model.load_weights('2216_weight.h5')
 
+    model_weight = '2216_weight.h5' # very robust model 2 to 89 years
+    #model_weight = '912_weight.h5' # robust model 1 to <25 years
+    
     dicom_image_path = '...'
-    print(f"Predicted Age: {estimate_age(model, preprocess_dicom_image(dicom_image_path))} years")
+    
+
+    model = get_my_model()
+    model.load_weights(model_weight)
+    
+    result = estimate_age(model, preprocess_dicom_image(dicom_image_path))
+
+    if model_weight == '912_weight.h5':
+        print(f"Predicted Age: {round(result/365.25,2)} years")
+    else:
+        print(f"Predicted Age: {result} years")
 ```
 </pre>
