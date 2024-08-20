@@ -16,7 +16,7 @@ Please reference the following publications:
 <ul><li>https://www.dropbox.com/scl/fi/b3wkkpd54s0f8ojophm0e/2216_weight.h5?rlkey=ajdu14emfm3ekhtij16lrwz9l&dl=0</li></ul>
 
 ### robust model 1 to <25 years
-<ul><li>Link coming soon</li></ul>
+<ul><li>https://www.dropbox.com/scl/fi/u9josnfag2xij90mzcruj/912_weight.h5?rlkey=qnfxjegydl7krgtghwzgghbif&dl=0</li></ul>
 
 <br/><br/>
 ## Instructions
