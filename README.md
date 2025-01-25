@@ -7,7 +7,7 @@
 Please reference the following publications:
 <ul>
    <li>Heinrich A (2024) Accelerating computer vision-based human identification through the integration of deep learning-based age estimation from 2 to 89 years. Scientific Reports 14:4195 https://doi.org/10.1038/s41598-024-54877-1<br/><br/>Link: https://www.nature.com/articles/s41598-024-54877-1<br/><br/></li>
-   <li>Koch R, Mentzel H-J, Heinrich A. (2025). Deep Learning for forensic age estimation using orthopantomograms in children, adolescents, and young adults. European Radiology.</li>
+   <li>Koch R, Mentzel H-J, Heinrich A. (2025). Deep Learning for forensic age estimation using orthopantomograms in children, adolescents, and young adults. European Radiology. https://doi.org/10.1007/s00330-025-11373-y<br/><br/>Link: https://link.springer.com/article/10.1007/s00330-025-11373-y</li>
 </ul>
 
 <br/><br/>
